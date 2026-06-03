@@ -1,0 +1,14 @@
+# Dataset Excel besar (44MB) — TIDAK diunggah ke GitHub.
+# Aplikasi memakai versi .parquet (7MB) yang ringan & cepat.
+data/online_retail_II.xlsx
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Konfigurasi lokal Streamlit
+.streamlit/secrets.toml
+
+# OS
+Thumbs.db
+.DS_Store

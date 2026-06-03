@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#FF6B35"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# Batas upload tidak relevan (data dibundel), tapi set wajar.
+maxUploadSize = 50
