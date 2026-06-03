@@ -15,7 +15,7 @@ menggunakan data transaksi ritel nyata (*UCI Online Retail II*).
 
 ## 🚀 Coba Langsung (Online)
 
-**👉 [Buka Aplikasi](https://LINK-APLIKASI-ANDA.streamlit.app)**
+**👉 [Buka Aplikasi](https://dss-zakiy.streamlit.app/)**
 
 Tidak perlu instalasi apa pun — cukup buka link di atas lewat browser.
 
